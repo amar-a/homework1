@@ -1,0 +1,6 @@
+What is the difference between a merge and a rebase?
+
+Merge is when you are updating from a local repository to a working directory, or rather, when the target branch is public. Merging can result in conflicts.
+
+Rebase is when you want to update the start of your branch to a later commit that happend after you branched out. It has a linear structure and is typically used when the target branch is private.
+
