@@ -4,3 +4,6 @@ Merge is when you are updating from a local repository to a working directory, o
 
 Rebase is when you want to update the start of your branch to a later commit that happend after you branched out. It has a linear structure and is typically used when the target branch is private.
 
+What is a remote repository?
+
+A remote repository is a version of your changes that are hosted on an external server.
